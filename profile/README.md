@@ -1,5 +1,9 @@
 # Core repositories
 
+## Utilities:
+
+- [Grading Scripts](https://github.com/ngo-classes/grading-scripts) (private)
+
 ## CSC231: Computer Systems
 
 ## CSC331: Operating Systems

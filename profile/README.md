@@ -22,8 +22,8 @@
 
 ## CSC478: Cloud Engineering
 
-- [Assignment 1](https://github.com/ngo-classes/csc478-578-1)
-- [Assignment 2](https://github.com/ngo-classes/csc478-578-2)
+- [Assignment 1](https://github.com/ngo-classes/478-578-1)
+- [Assignment 2](https://github.com/ngo-classes/478-578-2)
 
 
 
